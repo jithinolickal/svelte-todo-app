@@ -1,3 +1,5 @@
+[![Deploy to GitHub Pages](https://github.com/jithinolickal/svelte-todo-app/actions/workflows/deploy.yml/badge.svg)](https://github.com/jithinolickal/svelte-todo-app/actions/workflows/deploy.yml)
+
 # Svelte Todo App
 
 This repo shows how to deploy a svelte app to github pages using automated github actions
