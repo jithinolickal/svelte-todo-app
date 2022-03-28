@@ -21,4 +21,5 @@ This repo shows how to deploy a svelte app to github pages using automated githu
     - Update the secret name inside your workflow *.yml file
 4. Update all paths in /public/index.html file to relative path [reference](https://github.com/jithinolickal/svelte-todo-app/commit/4038c6fc8a927425b98fe788629e378675f735b5)
     - Example : ```href='/build/bundle.css'``` to ```href='./build/bundle.css'```
-5. Commit all the changes and wait github acions to deploy your changes
+5. Create a branch named ```gh-pages``` in the current repository
+6. Commit all the changes and wait github acions to deploy your changes
